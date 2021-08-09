@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @froznade
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++, competitive programming, and python
+- 🌱 currently learning C++, competitive programming, and python
 - 📫 How to reach me: 
 email: raditya.learner@gmail.com
 discord: Hyou#1644
